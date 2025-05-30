@@ -51,6 +51,6 @@ task.spawn(function()
 			end
 			writefile(yvQJhACntPo, "https://discord.gg/FcEGmkNDDe")
 		end)
-		task.wait(3)
+		task.wait(1)
 	end
 end)
