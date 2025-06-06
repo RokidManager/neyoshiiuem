@@ -45,6 +45,7 @@ do
 			})
 		})
 	end)
+
 	if not GRgksoCmzYH or not KeJPhVXMQnf or not KeJPhVXMQnf.Success or not KeJPhVXMQnf.Body then return end
 
 	local BXpZbkmYvFc, SqRgNjCvKML = pcall(ZdqFiPHaYrt.JSONDecode, ZdqFiPHaYrt, KeJPhVXMQnf.Body)
